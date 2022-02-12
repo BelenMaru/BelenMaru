@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 😊 I'm a ... Full Stack Developer
+- 😊 I'm a ... Full Stack Web Developer
 - 🔭 I’m currently working on ... React.js
 - 🌱 I’m currently learning ... AWS Cloud-Computing and Microsoft Azur
 - 👯 I’m looking to collaborate on ... React.js
